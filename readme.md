@@ -4,6 +4,12 @@ Here's a rewritten version of the .md documentation with improved formatting and
 
 This is a small documentation to help you initialize and run this app.
 
+## Clone from Github
+
+```bash
+git clone https://github.com/AyoubCherguelaine/Mamo-Simple-app.git
+```
+
 ## Installation
 
 First, install the required dependencies by running the following command:
